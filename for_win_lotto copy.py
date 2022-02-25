@@ -1,4 +1,4 @@
-!pip install pandas random numpy
+# !pip install pandas random numpy
 
 # 라이브러리 불러오기
 import random as rd
